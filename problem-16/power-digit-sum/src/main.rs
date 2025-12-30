@@ -1,0 +1,15 @@
+fn main() {
+    // What is the sum of the digits of 2^1000 ?
+    println!("{}", u128::MAX); // much smaller than 2**1000...
+
+    // I think we need to either do some base magic or binary magic...
+}
+
+// Python 3.14.1 (main, Dec  2 2025, 12:51:37) [GCC 12.3.0] on linux
+// Type "help", "copyright", "credits" or "license" for more information.
+// Ctrl click to launch VS Code Native REPL
+// >>> 2**1000
+// 10715086071862673209484250490600018105614048117055336074437503883703510511249361224931983788156958581275946729175531468251871452856923140435984577574698574803934567774824230985421074605062371141877954182153046474983581941267398767559165543946077062914571196477686542167660429831652624386837205668069376
+// >>> sum([int(i) for i in list(str(2**1000))])
+// 1366
+// >>>
