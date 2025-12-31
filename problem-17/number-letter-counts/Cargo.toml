@@ -1,0 +1,7 @@
+[package]
+name = "number-letter-counts"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dict = "0.1.5"
