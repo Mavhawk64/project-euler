@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Cargo Run (Quiet)",
+            "cargo": {
+                "args": [
+                    "run",
+                    "--quiet",
+                    "--manifest-path=${fileDirname}/../Cargo.toml"
+                ]
+            },
+            "args": [],
+            "cwd": "${fileDirname}/.."
+        }
+    ]
+}
