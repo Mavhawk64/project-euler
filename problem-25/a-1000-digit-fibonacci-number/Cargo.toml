@@ -1,0 +1,9 @@
+[package]
+name = "a-1000-digit-fibonacci-number"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+euler_utils = { path = "../../euler_utils" }
+num-bigint = "0.4.6"
+num-traits = "0.2.19"
