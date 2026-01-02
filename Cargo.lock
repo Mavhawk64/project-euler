@@ -49,6 +49,13 @@ name = "names-scores"
 version = "0.1.0"
 
 [[package]]
+name = "non-abundant-sums"
+version = "0.1.0"
+dependencies = [
+ "euler_utils",
+]
+
+[[package]]
 name = "number-letter-counts"
 version = "0.1.0"
 dependencies = [
