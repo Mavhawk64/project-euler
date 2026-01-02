@@ -2,5 +2,5 @@
 resolver = "2"  # This removes the warning and uses the modern dependency logic
 members = [
     "euler_utils",
-    "problem-12/highly-divisible-triangular-number", "problem-13/hundred_big_sum", "problem-14/longest-collatz", "problem-15/lattice-paths", "problem-16/power-digit-sum", "problem-17/number-letter-counts", "problem-18/maximum-path-sum-i", "problem-19/counting-sundays", "problem-20/factorial-digit-sum", "problem-21/amicable-numbers", "problem-22/names-scores", "problem-23/non-abundant-sums",
+    "problem-12/highly-divisible-triangular-number", "problem-13/hundred_big_sum", "problem-14/longest-collatz", "problem-15/lattice-paths", "problem-16/power-digit-sum", "problem-17/number-letter-counts", "problem-18/maximum-path-sum-i", "problem-19/counting-sundays", "problem-20/factorial-digit-sum", "problem-21/amicable-numbers", "problem-22/names-scores", "problem-23/non-abundant-sums", "problem-24/lexicographic-permutations",
 ]

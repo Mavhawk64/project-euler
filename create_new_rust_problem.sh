@@ -39,5 +39,7 @@ else
     echo "Warning: Root Cargo.toml not found. Skipping workspace update."
 fi
 
+cd "$BASE_DIR/$TARGET_DIR/$PROJECT_NAME"
+
 # 4. Open in VS Code
 code "$BASE_DIR/$RELATIVE_PATH/src/main.rs"
