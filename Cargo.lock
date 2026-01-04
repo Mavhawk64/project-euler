@@ -34,6 +34,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "coin-sums"
+version = "0.1.0"
+
+[[package]]
 name = "counting-sundays"
 version = "0.1.0"
 
