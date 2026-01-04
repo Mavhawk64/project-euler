@@ -38,12 +38,12 @@ if [ -f "$WORKSPACE_TOML" ]; then
     fi
 
     # 4. Link euler_utils
-    PROJECT_TOML="$BASE_DIR/$RELATIVE_PATH/Cargo.toml"
-    if ! grep -q "euler_utils" "$PROJECT_TOML"; then
+    # PROJECT_TOML="$BASE_DIR/$RELATIVE_PATH/Cargo.toml"
+    # if ! grep -q "euler_utils" "$PROJECT_TOML"; then
         # Path is 3 levels deep from the project root to project-euler/
-        echo 'euler_utils = { path = "../../../euler_utils" }' >> "$PROJECT_TOML"
-        echo "Linked euler_utils dependency."
-    fi
+        # echo 'euler_utils = { path = "../../../euler_utils" }' >> "$PROJECT_TOML"
+        # echo "Linked euler_utils dependency."
+    # fi
 else
     echo "Warning: Root Cargo.toml not found. Skipping workspace update."
 fi
