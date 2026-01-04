@@ -44,6 +44,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "39fbb71fba1e2c935f51b056de0d812d9b625b8165b2d7f8848902080fbdffb4"
 
 [[package]]
+name = "digit-fifth-powers"
+version = "0.1.0"
+
+[[package]]
 name = "distinct-powers"
 version = "0.1.0"
 dependencies = [
