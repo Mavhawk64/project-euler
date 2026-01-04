@@ -1,0 +1,7 @@
+[package]
+name = "prime-digit-replacements"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+euler_utils = { path = "../../../euler_utils" }
