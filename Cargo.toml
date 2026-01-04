@@ -2,6 +2,7 @@
 resolver = "2"
 
 members = [
+    "solutions_1-50/problem-29/distinct-powers",
     "solutions_1-50/problem-28/number-spiral-diagonals",
     "solutions_651-700/problem-666/polymorphic-bacteria",
     "solutions_*/*/*",
