@@ -56,6 +56,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "digit-factorials"
+version = "0.1.0"
+
+[[package]]
 name = "digit-fifth-powers"
 version = "0.1.0"
 

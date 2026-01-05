@@ -2,6 +2,7 @@
 resolver = "2"
 
 members = [
+    "solutions_1-50/problem-34/digit-factorials",
     "solutions_1-50/problem-33/digit-canceling-fractions",
     "solutions_1-50/problem-32/pandigital-products",
     "solutions_1-50/problem-31/coin-sums",
