@@ -1,0 +1,72 @@
+NumChunk:
+NumChunk struct[num = 1, mults=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+Number:
+123456789
+NumChunk:
+NumChunk struct[num = 9, mults=[0, 9, 18, 27, 36, 45]]
+Number:
+918273645
+NumChunk:
+NumChunk struct[num = 192, mults=[0, 192, 384, 576]]
+Number:
+192384576
+NumChunk:
+NumChunk struct[num = 219, mults=[0, 219, 438, 657]]
+Number:
+219438657
+NumChunk:
+NumChunk struct[num = 273, mults=[0, 273, 546, 819]]
+Number:
+273546819
+NumChunk:
+NumChunk struct[num = 327, mults=[0, 327, 654, 981]]
+Number:
+327654981
+NumChunk:
+NumChunk struct[num = 6729, mults=[0, 6729, 13458]]
+Number:
+672913458
+NumChunk:
+NumChunk struct[num = 6792, mults=[0, 6792, 13584]]
+Number:
+679213584
+NumChunk:
+NumChunk struct[num = 6927, mults=[0, 6927, 13854]]
+Number:
+692713854
+NumChunk:
+NumChunk struct[num = 7269, mults=[0, 7269, 14538]]
+Number:
+726914538
+NumChunk:
+NumChunk struct[num = 7293, mults=[0, 7293, 14586]]
+Number:
+729314586
+NumChunk:
+NumChunk struct[num = 7329, mults=[0, 7329, 14658]]
+Number:
+732914658
+NumChunk:
+NumChunk struct[num = 7692, mults=[0, 7692, 15384]]
+Number:
+769215384
+NumChunk:
+NumChunk struct[num = 7923, mults=[0, 7923, 15846]]
+Number:
+792315846
+NumChunk:
+NumChunk struct[num = 7932, mults=[0, 7932, 15864]]
+Number:
+793215864
+NumChunk:
+NumChunk struct[num = 9267, mults=[0, 9267, 18534]]
+Number:
+926718534
+NumChunk:
+NumChunk struct[num = 9273, mults=[0, 9273, 18546]]
+Number:
+927318546
+NumChunk:
+NumChunk struct[num = 9327, mults=[0, 9327, 18654]]
+Number:
+932718654
