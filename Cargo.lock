@@ -111,6 +111,10 @@ name = "hundred_big_sum"
 version = "0.1.0"
 
 [[package]]
+name = "integer-right-triangles"
+version = "0.1.0"
+
+[[package]]
 name = "lattice-paths"
 version = "0.1.0"
 
