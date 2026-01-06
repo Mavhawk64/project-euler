@@ -34,6 +34,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "circular-primes"
+version = "0.1.0"
+dependencies = [
+ "primes",
+]
+
+[[package]]
 name = "coin-sums"
 version = "0.1.0"
 
