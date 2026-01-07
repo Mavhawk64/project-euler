@@ -206,6 +206,13 @@ name = "pandigital-multiples"
 version = "0.1.0"
 
 [[package]]
+name = "pandigital-primes"
+version = "0.1.0"
+dependencies = [
+ "primes",
+]
+
+[[package]]
 name = "pandigital-products"
 version = "0.1.0"
 

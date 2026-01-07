@@ -1,0 +1,7 @@
+[package]
+name = "pandigital-primes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+primes = "0.4.0"
