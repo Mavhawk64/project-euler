@@ -2,6 +2,7 @@
 resolver = "2"
 
 members = [
+    "solutions_1-50/problem-42/coded-triangle-numbers",
     "solutions_1-50/problem-41/pandigital-primes",
     "solutions_1-50/problem-40/champernownes-constant",
     "solutions_1-50/problem-39/integer-right-triangles",

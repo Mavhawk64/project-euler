@@ -45,6 +45,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "coded-triangle-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "coin-sums"
 version = "0.1.0"
 
