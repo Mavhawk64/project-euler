@@ -236,6 +236,10 @@ name = "pandigital-products"
 version = "0.1.0"
 
 [[package]]
+name = "pentagon-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "polymorphic-bacteria"
 version = "0.1.0"
 
