@@ -27,7 +27,7 @@ fn new_sol() {
         if sieve[i] == 0 {
             // hit a prime
             // println!("{} is prime!", i);
-            for j in (i..L).step_by(i) {
+            for j in (2 * i..L).step_by(i) {
                 sieve[j] += 1;
             }
         }
