@@ -87,6 +87,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "distinct-primes-factors"
+version = "0.1.0"
+dependencies = [
+ "primes",
+]
+
+[[package]]
 name = "double-base-palindromes"
 version = "0.1.0"
 
