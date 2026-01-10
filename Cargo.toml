@@ -2,6 +2,7 @@
 resolver = "2"
 
 members = [
+    "solutions_1-50/problem-48/self-powers",
     "solutions_1-50/problem-47/distinct-primes-factors",
     "solutions_1-50/problem-46/goldbachs-other-conjecture",
     "solutions_1-50/problem-45/triangular-pentagonal-and-hexagonal",
