@@ -11,7 +11,239 @@ dependencies = [
 ]
 
 [[package]]
+name = "a-bit-of-prime"
+version = "0.1.0"
+
+[[package]]
+name = "a-bold-proposition"
+version = "0.1.0"
+
+[[package]]
+name = "a-collective-decision"
+version = "0.1.0"
+
+[[package]]
+name = "a-frogs-trip"
+version = "0.1.0"
+
+[[package]]
+name = "a-game-of-chance"
+version = "0.1.0"
+
+[[package]]
+name = "a-grand-shuffle"
+version = "0.1.0"
+
+[[package]]
+name = "a-huge-binomial-coefficient"
+version = "0.1.0"
+
+[[package]]
+name = "a-kempner-like-series"
+version = "0.1.0"
+
+[[package]]
+name = "a-lagged-fibonacci-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "a-long-chess-match"
+version = "0.1.0"
+
+[[package]]
+name = "a-long-row-of-dice"
+version = "0.1.0"
+
+[[package]]
+name = "a-messy-dinner"
+version = "0.1.0"
+
+[[package]]
+name = "a-modified-collatz-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "a-polynomial-modulo-the-square-of-a-prime"
+version = "0.1.0"
+
+[[package]]
+name = "a-preference-for-a-5"
+version = "0.1.0"
+
+[[package]]
+name = "a-real-recursion"
+version = "0.1.0"
+
+[[package]]
+name = "a-rectangular-tiling"
+version = "0.1.0"
+
+[[package]]
+name = "a-recursively-defined-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "a-scoop-of-blancmange"
+version = "0.1.0"
+
+[[package]]
+name = "a-squared-recurrence-relation"
+version = "0.1.0"
+
+[[package]]
+name = "a-stoneham-number"
+version = "0.1.0"
+
+[[package]]
+name = "a-weird-recurrence-relation"
+version = "0.1.0"
+
+[[package]]
+name = "a-winding-path"
+version = "0.1.0"
+
+[[package]]
+name = "abc-hits"
+version = "0.1.0"
+
+[[package]]
+name = "add-and-divide"
+version = "0.1.0"
+
+[[package]]
+name = "admissible-paths-through-a-grid"
+version = "0.1.0"
+
+[[package]]
+name = "alexandrian-integers"
+version = "0.1.0"
+
+[[package]]
+name = "almost-equilateral-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "almost-pi"
+version = "0.1.0"
+
+[[package]]
+name = "almost-right-angled-triangles-i"
+version = "0.1.0"
+
+[[package]]
+name = "almost-right-angled-triangles-ii"
+version = "0.1.0"
+
+[[package]]
+name = "alternating-gcd-sum"
+version = "0.1.0"
+
+[[package]]
+name = "amazing-mazes"
+version = "0.1.0"
+
+[[package]]
+name = "ambiguous-clock"
+version = "0.1.0"
+
+[[package]]
+name = "ambiguous-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "amicable-chains"
+version = "0.1.0"
+
+[[package]]
 name = "amicable-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "amidakuji"
+version = "0.1.0"
+
+[[package]]
+name = "amoebas-in-a-2-d-grid"
+version = "0.1.0"
+
+[[package]]
+name = "amoebas-in-a-3-d-grid"
+version = "0.1.0"
+
+[[package]]
+name = "an-amazing-prime-generating-automaton"
+version = "0.1.0"
+
+[[package]]
+name = "an-ant-on-the-move"
+version = "0.1.0"
+
+[[package]]
+name = "an-arithmetic-geometric-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "an-engineers-dream-come-true"
+version = "0.1.0"
+
+[[package]]
+name = "an-enormous-factorial"
+version = "0.1.0"
+
+[[package]]
+name = "an-infinite-game"
+version = "0.1.0"
+
+[[package]]
+name = "anagramic-squares"
+version = "0.1.0"
+
+[[package]]
+name = "angular-bisector-and-tangent"
+version = "0.1.0"
+
+[[package]]
+name = "angular-bisector-and-tangent-2"
+version = "0.1.0"
+
+[[package]]
+name = "angular-bisectors"
+version = "0.1.0"
+
+[[package]]
+name = "ant-and-seeds"
+version = "0.1.0"
+
+[[package]]
+name = "approximating-a-sum"
+version = "0.1.0"
+
+[[package]]
+name = "arithmetic-derivative"
+version = "0.1.0"
+
+[[package]]
+name = "arithmetic-expressions"
+version = "0.1.0"
+
+[[package]]
+name = "arranged-probability"
+version = "0.1.0"
+
+[[package]]
+name = "ascending-subsequences"
+version = "0.1.0"
+
+[[package]]
+name = "asymmetric-diophantine-equation"
+version = "0.1.0"
+
+[[package]]
+name = "asymmetric-random-walk"
+version = "0.1.0"
+
+[[package]]
+name = "at-least-four-distinct-prime-factors-less-than-100"
 version = "0.1.0"
 
 [[package]]
@@ -19,6 +251,70 @@ name = "autocfg"
 version = "1.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c08606f8c3cbf4ce6ec8e28fb0014a2c086708fe954eaa885384a6165172e7e8"
+
+[[package]]
+name = "average-and-variance"
+version = "0.1.0"
+
+[[package]]
+name = "average-least-common-multiple"
+version = "0.1.0"
+
+[[package]]
+name = "b-trivisible-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "badugi"
+version = "0.1.0"
+
+[[package]]
+name = "balanceable-k-bounded-partitions"
+version = "0.1.0"
+
+[[package]]
+name = "balanced-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "balanced-sculptures"
+version = "0.1.0"
+
+[[package]]
+name = "base-10-diophantine-reciprocal"
+version = "0.1.0"
+
+[[package]]
+name = "beans-in-bowls"
+version = "0.1.0"
+
+[[package]]
+name = "beautiful-graphs"
+version = "0.1.0"
+
+[[package]]
+name = "beds-and-desks"
+version = "0.1.0"
+
+[[package]]
+name = "belfry-maths"
+version = "0.1.0"
+
+[[package]]
+name = "best-approximations"
+version = "0.1.0"
+
+[[package]]
+name = "best-approximations-by-quadratic-integers"
+version = "0.1.0"
+
+[[package]]
+name = "biclinic-integral-quadrilaterals"
+version = "0.1.0"
+
+[[package]]
+name = "bidirectional-recurrence"
+version = "0.1.0"
 
 [[package]]
 name = "bigdecimal"
@@ -34,7 +330,183 @@ dependencies = [
 ]
 
 [[package]]
+name = "billiard"
+version = "0.1.0"
+
+[[package]]
+name = "billionaire"
+version = "0.1.0"
+
+[[package]]
+name = "binary-blackboard"
+version = "0.1.0"
+
+[[package]]
+name = "binary-circles"
+version = "0.1.0"
+
+[[package]]
+name = "binary-grid-colouring"
+version = "0.1.0"
+
+[[package]]
+name = "binary-partitions"
+version = "0.1.0"
+
+[[package]]
+name = "binary-quadratic-form"
+version = "0.1.0"
+
+[[package]]
+name = "binary-quadratic-form-ii"
+version = "0.1.0"
+
+[[package]]
+name = "binary-series"
+version = "0.1.0"
+
+[[package]]
+name = "binomial-coefficients-divisible-by-10"
+version = "0.1.0"
+
+[[package]]
+name = "binomials-and-powers"
+version = "0.1.0"
+
+[[package]]
+name = "birds-on-a-wire"
+version = "0.1.0"
+
+[[package]]
+name = "birthday-problem-revisited"
+version = "0.1.0"
+
+[[package]]
+name = "bitwise-or-operations-on-random-integers"
+version = "0.1.0"
+
+[[package]]
+name = "bitwise-recursion"
+version = "0.1.0"
+
+[[package]]
+name = "blood-tests"
+version = "0.1.0"
+
+[[package]]
+name = "bouncy-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "bounded-binary-search"
+version = "0.1.0"
+
+[[package]]
+name = "bounded-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "bounded-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "box-ball-system"
+version = "0.1.0"
+
+[[package]]
+name = "bozo-sort"
+version = "0.1.0"
+
+[[package]]
+name = "buckets-of-water"
+version = "0.1.0"
+
+[[package]]
+name = "building-a-tower"
+version = "0.1.0"
+
+[[package]]
+name = "bzier-curves"
+version = "0.1.0"
+
+[[package]]
+name = "bzouts-game"
+version = "0.1.0"
+
+[[package]]
+name = "cake-icing-puzzle"
+version = "0.1.0"
+
+[[package]]
+name = "card-stacking-game"
+version = "0.1.0"
+
+[[package]]
+name = "cardano-triplets"
+version = "0.1.0"
+
+[[package]]
+name = "centaurs-on-a-chess-board"
+version = "0.1.0"
+
+[[package]]
 name = "champernownes-constant"
+version = "0.1.0"
+
+[[package]]
+name = "chandelier"
+version = "0.1.0"
+
+[[package]]
+name = "chasing-game"
+version = "0.1.0"
+
+[[package]]
+name = "chef-showdown"
+version = "0.1.0"
+
+[[package]]
+name = "chess-sliders"
+version = "0.1.0"
+
+[[package]]
+name = "chinese-leftovers"
+version = "0.1.0"
+
+[[package]]
+name = "chinese-leftovers-ii"
+version = "0.1.0"
+
+[[package]]
+name = "chip-defects"
+version = "0.1.0"
+
+[[package]]
+name = "chocolate-covered-candy"
+version = "0.1.0"
+
+[[package]]
+name = "chromatic-conundrum"
+version = "0.1.0"
+
+[[package]]
+name = "circle-and-tangent-line"
+version = "0.1.0"
+
+[[package]]
+name = "circle-of-coins"
+version = "0.1.0"
+
+[[package]]
+name = "circle-packing-ii"
+version = "0.1.0"
+
+[[package]]
+name = "circular-logic"
+version = "0.1.0"
+
+[[package]]
+name = "circular-logic-ii"
 version = "0.1.0"
 
 [[package]]
@@ -45,7 +517,35 @@ dependencies = [
 ]
 
 [[package]]
+name = "circumscribed-circles"
+version = "0.1.0"
+
+[[package]]
+name = "claire-voyant"
+version = "0.1.0"
+
+[[package]]
+name = "clock-grid"
+version = "0.1.0"
+
+[[package]]
+name = "clock-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "clock-sequence-ii"
+version = "0.1.0"
+
+[[package]]
 name = "coded-triangle-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "coin-loops"
+version = "0.1.0"
+
+[[package]]
+name = "coin-partitions"
 version = "0.1.0"
 
 [[package]]
@@ -53,7 +553,195 @@ name = "coin-sums"
 version = "0.1.0"
 
 [[package]]
+name = "coins-in-a-box"
+version = "0.1.0"
+
+[[package]]
+name = "collatz-prefix-families"
+version = "0.1.0"
+
+[[package]]
+name = "coloured-configurations"
+version = "0.1.0"
+
+[[package]]
+name = "coloured-graphs"
+version = "0.1.0"
+
+[[package]]
+name = "colouring-a-loop"
+version = "0.1.0"
+
+[[package]]
+name = "colouring-a-strip"
+version = "0.1.0"
+
+[[package]]
+name = "combinatoric-selections"
+version = "0.1.0"
+
+[[package]]
+name = "combined-volume-of-cuboids"
+version = "0.1.0"
+
+[[package]]
+name = "comfortable-distance"
+version = "0.1.0"
+
+[[package]]
+name = "comfortable-distance-ii"
+version = "0.1.0"
+
+[[package]]
+name = "common-cathetus-right-angled-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "common-factors-between-two-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "composites-with-prime-repunit-property"
+version = "0.1.0"
+
+[[package]]
+name = "compromise-or-persist"
+version = "0.1.0"
+
+[[package]]
+name = "concatenation-coincidence"
+version = "0.1.0"
+
+[[package]]
+name = "concave-triangle"
+version = "0.1.0"
+
+[[package]]
+name = "concealed-square"
+version = "0.1.0"
+
+[[package]]
+name = "conjunctive-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "connectedness-of-a-network"
+version = "0.1.0"
+
+[[package]]
+name = "consecutive-die-throws"
+version = "0.1.0"
+
+[[package]]
+name = "consecutive-positive-divisors"
+version = "0.1.0"
+
+[[package]]
 name = "consecutive-prime-sum"
+version = "0.1.0"
+
+[[package]]
+name = "constrained-permutations"
+version = "0.1.0"
+
+[[package]]
+name = "constrained-sums"
+version = "0.1.0"
+
+[[package]]
+name = "constraining-the-least-greatest-and-the-greatest-least"
+version = "0.1.0"
+
+[[package]]
+name = "continued-fraction-fraction"
+version = "0.1.0"
+
+[[package]]
+name = "convergents-of-e"
+version = "0.1.0"
+
+[[package]]
+name = "convex-holes"
+version = "0.1.0"
+
+[[package]]
+name = "convex-path-in-square"
+version = "0.1.0"
+
+[[package]]
+name = "cookie-game"
+version = "0.1.0"
+
+[[package]]
+name = "coprime-nim"
+version = "0.1.0"
+
+[[package]]
+name = "coprime-permutations"
+version = "0.1.0"
+
+[[package]]
+name = "coresilience"
+version = "0.1.0"
+
+[[package]]
+name = "counting-binary-matrices"
+version = "0.1.0"
+
+[[package]]
+name = "counting-binary-quadratic-representations"
+version = "0.1.0"
+
+[[package]]
+name = "counting-block-combinations-i"
+version = "0.1.0"
+
+[[package]]
+name = "counting-block-combinations-ii"
+version = "0.1.0"
+
+[[package]]
+name = "counting-capacitor-circuits"
+version = "0.1.0"
+
+[[package]]
+name = "counting-castles"
+version = "0.1.0"
+
+[[package]]
+name = "counting-digits"
+version = "0.1.0"
+
+[[package]]
+name = "counting-fractions"
+version = "0.1.0"
+
+[[package]]
+name = "counting-fractions-in-a-range"
+version = "0.1.0"
+
+[[package]]
+name = "counting-hexagons"
+version = "0.1.0"
+
+[[package]]
+name = "counting-ordered-factorisations"
+version = "0.1.0"
+
+[[package]]
+name = "counting-primitive-pythagorean-triples"
+version = "0.1.0"
+
+[[package]]
+name = "counting-products"
+version = "0.1.0"
+
+[[package]]
+name = "counting-rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "counting-summations"
 version = "0.1.0"
 
 [[package]]
@@ -61,10 +749,126 @@ name = "counting-sundays"
 version = "0.1.0"
 
 [[package]]
+name = "counting-tuples"
+version = "0.1.0"
+
+[[package]]
+name = "crack-free-walls"
+version = "0.1.0"
+
+[[package]]
+name = "crazy-function"
+version = "0.1.0"
+
+[[package]]
+name = "creative-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "cribbage"
+version = "0.1.0"
+
+[[package]]
+name = "criss-cross"
+version = "0.1.0"
+
+[[package]]
+name = "crisscross-ellipses"
+version = "0.1.0"
+
+[[package]]
+name = "cross-flips"
+version = "0.1.0"
+
+[[package]]
+name = "cross-hatched-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "crossed-lines"
+version = "0.1.0"
+
+[[package]]
+name = "cube-digit-pairs"
+version = "0.1.0"
+
+[[package]]
+name = "cube-full-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "cubic-permutations"
+version = "0.1.0"
+
+[[package]]
+name = "cuboid-layers"
+version = "0.1.0"
+
+[[package]]
+name = "cuboid-route"
+version = "0.1.0"
+
+[[package]]
+name = "cutting-rectangular-grid-paper"
+version = "0.1.0"
+
+[[package]]
+name = "cutting-rope"
+version = "0.1.0"
+
+[[package]]
+name = "cutting-squares"
+version = "0.1.0"
+
+[[package]]
+name = "cutting-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "cyclic-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "cyclic-paths-on-sierpiski-graphs"
+version = "0.1.0"
+
+[[package]]
+name = "cyclical-figurate-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "cyclogenic-polynomials"
+version = "0.1.0"
+
+[[package]]
+name = "darts"
+version = "0.1.0"
+
+[[package]]
+name = "de-bruijns-combination-lock"
+version = "0.1.0"
+
+[[package]]
+name = "delphi-flip"
+version = "0.1.0"
+
+[[package]]
+name = "delphi-paper"
+version = "0.1.0"
+
+[[package]]
+name = "dice-game"
+version = "0.1.0"
+
+[[package]]
 name = "dict"
 version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "39fbb71fba1e2c935f51b056de0d812d9b625b8165b2d7f8848902080fbdffb4"
+
+[[package]]
+name = "different-dice"
+version = "0.1.0"
 
 [[package]]
 name = "digit-canceling-fractions"
@@ -75,11 +879,83 @@ dependencies = [
 ]
 
 [[package]]
+name = "digit-factorial-chains"
+version = "0.1.0"
+
+[[package]]
 name = "digit-factorials"
 version = "0.1.0"
 
 [[package]]
 name = "digit-fifth-powers"
+version = "0.1.0"
+
+[[package]]
+name = "digit-power-sum"
+version = "0.1.0"
+
+[[package]]
+name = "digit-sum-division"
+version = "0.1.0"
+
+[[package]]
+name = "digit-sum-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "digital-root-clocks"
+version = "0.1.0"
+
+[[package]]
+name = "digital-root-sums-of-factorisations"
+version = "0.1.0"
+
+[[package]]
+name = "digital-signature"
+version = "0.1.0"
+
+[[package]]
+name = "digits-in-squares"
+version = "0.1.0"
+
+[[package]]
+name = "diophantine-equation"
+version = "0.1.0"
+
+[[package]]
+name = "diophantine-reciprocals-i"
+version = "0.1.0"
+
+[[package]]
+name = "diophantine-reciprocals-ii"
+version = "0.1.0"
+
+[[package]]
+name = "diophantine-reciprocals-iii"
+version = "0.1.0"
+
+[[package]]
+name = "disc-game-prize-fund"
+version = "0.1.0"
+
+[[package]]
+name = "dissonant-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "distance-of-random-points-within-hollow-square-laminae"
+version = "0.1.0"
+
+[[package]]
+name = "distances-in-a-bees-honeycomb"
+version = "0.1.0"
+
+[[package]]
+name = "distinct-colourings-of-a-rubiks-cube"
+version = "0.1.0"
+
+[[package]]
+name = "distinct-lines"
 version = "0.1.0"
 
 [[package]]
@@ -98,7 +974,131 @@ dependencies = [
 ]
 
 [[package]]
+name = "distinct-rows-and-columns"
+version = "0.1.0"
+
+[[package]]
+name = "distinct-terms-in-a-multiplication-table"
+version = "0.1.0"
+
+[[package]]
+name = "distinct-values-of-a-proto-logarithmic-function"
+version = "0.1.0"
+
+[[package]]
+name = "distribu-nim-i"
+version = "0.1.0"
+
+[[package]]
+name = "distribu-nim-ii"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-comparison-between-factorials"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-multipliers"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-of-factorials"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-of-harmonic-number-denominators"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-of-sum-of-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "divisibility-streaks"
+version = "0.1.0"
+
+[[package]]
+name = "divisible-palindromes"
+version = "0.1.0"
+
+[[package]]
+name = "divisible-ranges"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-game"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-graph-width"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-nim"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-pairs"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-square-sum"
+version = "0.1.0"
+
+[[package]]
+name = "divisor-sums"
+version = "0.1.0"
+
+[[package]]
+name = "divisors-of-2-n2"
+version = "0.1.0"
+
+[[package]]
+name = "divisors-of-binomial-product"
+version = "0.1.0"
+
+[[package]]
+name = "dominating-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "double-base-palindromes"
+version = "0.1.0"
+
+[[package]]
+name = "double-pandigital-number-divisible-by-11"
+version = "0.1.0"
+
+[[package]]
+name = "drifting-subsets"
+version = "0.1.0"
+
+[[package]]
+name = "drone-delivery"
+version = "0.1.0"
+
+[[package]]
+name = "drunken-tower-of-hanoi"
+version = "0.1.0"
+
+[[package]]
+name = "duodigits"
+version = "0.1.0"
+
+[[package]]
+name = "dynamical-polynomials"
+version = "0.1.0"
+
+[[package]]
+name = "eating-pie"
+version = "0.1.0"
+
+[[package]]
+name = "efficient-exponentiation"
+version = "0.1.0"
+
+[[package]]
+name = "eight-divisors"
 version = "0.1.0"
 
 [[package]]
@@ -106,6 +1106,90 @@ name = "either"
 version = "1.15.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "48c757948c5ede0e46177b7add2e67155f70e33c07fea8284df6576da70b3719"
+
+[[package]]
+name = "eleven-free-integers"
+version = "0.1.0"
+
+[[package]]
+name = "ellipses-inside-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "empty-chairs"
+version = "0.1.0"
+
+[[package]]
+name = "enmeshed-unit-circle"
+version = "0.1.0"
+
+[[package]]
+name = "equiproduct-partition"
+version = "0.1.0"
+
+[[package]]
+name = "euclids-labour"
+version = "0.1.0"
+
+[[package]]
+name = "eulercoin"
+version = "0.1.0"
+
+[[package]]
+name = "eulerian-cycles"
+version = "0.1.0"
+
+[[package]]
+name = "eulers-number"
+version = "0.1.0"
+
+[[package]]
+name = "eulers-totient-function-equals-13"
+version = "0.1.0"
+
+[[package]]
+name = "even-fibonacci-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "even-stevens"
+version = "0.1.0"
+
+[[package]]
+name = "every-day-is-a-holiday"
+version = "0.1.0"
+
+[[package]]
+name = "exhausting-a-colour"
+version = "0.1.0"
+
+[[package]]
+name = "expected-minimal-fractional-value"
+version = "0.1.0"
+
+[[package]]
+name = "exploding-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "exploring-pascals-pyramid"
+version = "0.1.0"
+
+[[package]]
+name = "exploring-pascals-triangle"
+version = "0.1.0"
+
+[[package]]
+name = "exponent-difference"
+version = "0.1.0"
+
+[[package]]
+name = "expressing-an-integer-as-the-sum-of-triangular-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "factor-shuffle"
+version = "0.1.0"
 
 [[package]]
 name = "factorial"
@@ -122,11 +1206,259 @@ name = "factorial-digit-sum"
 version = "0.1.0"
 
 [[package]]
+name = "factorial-trailing-digits"
+version = "0.1.0"
+
+[[package]]
+name = "factorial-trailing-digits-2"
+version = "0.1.0"
+
+[[package]]
+name = "factorials-divisible-by-a-huge-integer"
+version = "0.1.0"
+
+[[package]]
+name = "factorisation-nim"
+version = "0.1.0"
+
+[[package]]
+name = "factorisation-triples"
+version = "0.1.0"
+
+[[package]]
+name = "factors-of-two-in-binomial-coefficients"
+version = "0.1.0"
+
+[[package]]
+name = "falling-bottles"
+version = "0.1.0"
+
+[[package]]
+name = "faulhabers-formulas"
+version = "0.1.0"
+
+[[package]]
+name = "fermat-equation"
+version = "0.1.0"
+
+[[package]]
+name = "fermat-like-equations"
+version = "0.1.0"
+
+[[package]]
+name = "few-repeated-digits"
+version = "0.1.0"
+
+[[package]]
+name = "feynman-diagrams"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-golden-nuggets"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-paths"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-primitive-roots"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-residues"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-tree-game"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-words"
+version = "0.1.0"
+
+[[package]]
+name = "finding-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "finite-sequence-generator"
+version = "0.1.0"
+
+[[package]]
+name = "firecracker"
+version = "0.1.0"
+
+[[package]]
+name = "first-sort-i"
+version = "0.1.0"
+
+[[package]]
+name = "first-sort-ii"
+version = "0.1.0"
+
+[[package]]
+name = "flea-circus"
+version = "0.1.0"
+
+[[package]]
+name = "fleeting-medians"
+version = "0.1.0"
+
+[[package]]
+name = "flexible-digit-sum"
+version = "0.1.0"
+
+[[package]]
+name = "flipping-game"
+version = "0.1.0"
+
+[[package]]
+name = "fortunate-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "four-representations-using-squares"
+version = "0.1.0"
+
+[[package]]
+name = "fractal-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "fractional-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "fractions-and-sum-of-powers-of-two"
+version = "0.1.0"
+
+[[package]]
+name = "fractions-of-powers"
+version = "0.1.0"
+
+[[package]]
+name = "freefarea"
+version = "0.1.0"
+
+[[package]]
+name = "freshmans-product"
+version = "0.1.0"
+
+[[package]]
+name = "frictionless-tube"
+version = "0.1.0"
+
+[[package]]
+name = "friend-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "gathering-the-beans"
+version = "0.1.0"
+
+[[package]]
+name = "gcd-and-tiling"
+version = "0.1.0"
+
+[[package]]
+name = "gcd-of-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "gcd-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "gcd-sum"
+version = "0.1.0"
+
+[[package]]
+name = "generalised-hamming-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "generating-polygons"
+version = "0.1.0"
+
+[[package]]
+name = "geoboard-shapes"
+version = "0.1.0"
+
+[[package]]
+name = "geometric-progression-with-maximum-sum"
+version = "0.1.0"
+
+[[package]]
+name = "geometric-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "giant-gc-ds"
+version = "0.1.0"
+
+[[package]]
+name = "gnomon-numbering"
+version = "0.1.0"
+
+[[package]]
+name = "gold-and-silver-coin-game"
+version = "0.1.0"
+
+[[package]]
+name = "gold-and-silver-coin-game-ii"
+version = "0.1.0"
+
+[[package]]
 name = "goldbachs-other-conjecture"
 version = "0.1.0"
 dependencies = [
  "primes",
 ]
+
+[[package]]
+name = "golden-recurrence"
+version = "0.1.0"
+
+[[package]]
+name = "golden-triplets"
+version = "0.1.0"
+
+[[package]]
+name = "golombs-self-describing-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "gozinta-chains"
+version = "0.1.0"
+
+[[package]]
+name = "gozinta-chains-ii"
+version = "0.1.0"
+
+[[package]]
+name = "grid-graphs"
+version = "0.1.0"
+
+[[package]]
+name = "group-by-value"
+version = "0.1.0"
+
+[[package]]
+name = "grouping-two-different-coloured-objects"
+version = "0.1.0"
+
+[[package]]
+name = "guessing-game"
+version = "0.1.0"
+
+[[package]]
+name = "guessing-with-sets"
+version = "0.1.0"
+
+[[package]]
+name = "hallway-of-square-steps"
+version = "0.1.0"
 
 [[package]]
 name = "hamming"
@@ -135,7 +1467,59 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "65043da274378d68241eb9a8f8f8aa54e349136f7b8e12f63e3ef44043cc30e1"
 
 [[package]]
+name = "harshad-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "heighway-dragon"
+version = "0.1.0"
+
+[[package]]
+name = "heptaphobia"
+version = "0.1.0"
+
+[[package]]
+name = "heron-envelopes"
+version = "0.1.0"
+
+[[package]]
+name = "hexadecimal-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "hexagonal-orchards"
+version = "0.1.0"
+
+[[package]]
+name = "hexagonal-tile-differences"
+version = "0.1.0"
+
+[[package]]
+name = "high-powers-of-irrational-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "highly-divisible-triangular-number"
+version = "0.1.0"
+
+[[package]]
+name = "hilberts-blackout"
+version = "0.1.0"
+
+[[package]]
+name = "hilberts-new-hotel"
+version = "0.1.0"
+
+[[package]]
+name = "hollow-square-laminae-i"
+version = "0.1.0"
+
+[[package]]
+name = "hollow-square-laminae-ii"
+version = "0.1.0"
+
+[[package]]
+name = "hopping-game"
 version = "0.1.0"
 
 [[package]]
@@ -143,7 +1527,147 @@ name = "hundred_big_sum"
 version = "0.1.0"
 
 [[package]]
+name = "hybrid-integers"
+version = "0.1.0"
+
+[[package]]
+name = "hyperbolic-plane"
+version = "0.1.0"
+
+[[package]]
+name = "hyperexponentiation"
+version = "0.1.0"
+
+[[package]]
+name = "hypocycloid-and-lattice-points"
+version = "0.1.0"
+
+[[package]]
+name = "idempotent-matrices"
+version = "0.1.0"
+
+[[package]]
+name = "idempotents"
+version = "0.1.0"
+
+[[package]]
+name = "incenter-and-circumcenter-of-triangle"
+version = "0.1.0"
+
+[[package]]
+name = "incomplete-words"
+version = "0.1.0"
+
+[[package]]
+name = "incomplete-words-ii"
+version = "0.1.0"
+
+[[package]]
+name = "incremental-random-sort"
+version = "0.1.0"
+
+[[package]]
+name = "infinite-string-tour"
+version = "0.1.0"
+
+[[package]]
+name = "integer-angled-quadrilaterals"
+version = "0.1.0"
+
+[[package]]
+name = "integer-ladders"
+version = "0.1.0"
+
+[[package]]
+name = "integer-part-of-polynomial-equations-solutions"
+version = "0.1.0"
+
+[[package]]
+name = "integer-partition-equations"
+version = "0.1.0"
+
+[[package]]
 name = "integer-right-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "integer-sided-equiangular-hexagons"
+version = "0.1.0"
+
+[[package]]
+name = "integer-sided-triangles-with-integral-areaperimeter-ratio"
+version = "0.1.0"
+
+[[package]]
+name = "integer-valued-polynomials"
+version = "0.1.0"
+
+[[package]]
+name = "integers-in-base-i-1"
+version = "0.1.0"
+
+[[package]]
+name = "integers-with-decreasing-prime-powers"
+version = "0.1.0"
+
+[[package]]
+name = "integral-fusion"
+version = "0.1.0"
+
+[[package]]
+name = "integral-median"
+version = "0.1.0"
+
+[[package]]
+name = "intersections"
+version = "0.1.0"
+
+[[package]]
+name = "inverse-digit-sum"
+version = "0.1.0"
+
+[[package]]
+name = "inverse-digit-sum-ii"
+version = "0.1.0"
+
+[[package]]
+name = "investigating-a-prime-pattern"
+version = "0.1.0"
+
+[[package]]
+name = "investigating-gaussian-integers"
+version = "0.1.0"
+
+[[package]]
+name = "investigating-ulam-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "irrational-base"
+version = "0.1.0"
+
+[[package]]
+name = "irrational-jumps"
+version = "0.1.0"
+
+[[package]]
+name = "irregular-star-polygons"
+version = "0.1.0"
+
+[[package]]
+name = "iterated-composition"
+version = "0.1.0"
+
+[[package]]
+name = "iterated-functions"
+version = "0.1.0"
+
+[[package]]
+name = "iterative-circle-packing"
+version = "0.1.0"
+
+[[package]]
+name = "iterative-sampling"
 version = "0.1.0"
 
 [[package]]
@@ -156,7 +1680,163 @@ dependencies = [
 ]
 
 [[package]]
+name = "jacks-bean"
+version = "0.1.0"
+
+[[package]]
+name = "jumping-flea"
+version = "0.1.0"
+
+[[package]]
+name = "jumping-frog"
+version = "0.1.0"
+
+[[package]]
+name = "k-markov-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "kakuro"
+version = "0.1.0"
+
+[[package]]
+name = "kangaroo-hopping"
+version = "0.1.0"
+
+[[package]]
+name = "kangaroo-hopping-over-sixes"
+version = "0.1.0"
+
+[[package]]
+name = "kaprekar-constant"
+version = "0.1.0"
+
+[[package]]
+name = "khinchin-exceptions"
+version = "0.1.0"
+
+[[package]]
+name = "l-expressions-i"
+version = "0.1.0"
+
+[[package]]
+name = "l-expressions-ii"
+version = "0.1.0"
+
+[[package]]
+name = "lambda-count"
+version = "0.1.0"
+
+[[package]]
+name = "langtons-ant"
+version = "0.1.0"
+
+[[package]]
+name = "large-non-mersenne-prime"
+version = "0.1.0"
+
+[[package]]
+name = "large-repunit-factors"
+version = "0.1.0"
+
+[[package]]
+name = "larger-digit-permutation"
+version = "0.1.0"
+
+[[package]]
+name = "larger-digit-permutation-ii"
+version = "0.1.0"
+
+[[package]]
+name = "larger-digit-permutation-iii"
+version = "0.1.0"
+
+[[package]]
+name = "largest-exponential"
+version = "0.1.0"
+
+[[package]]
+name = "largest-integer-divisible-by-two-primes"
+version = "0.1.0"
+
+[[package]]
+name = "largest-palindrome-product"
+version = "0.1.0"
+
+[[package]]
+name = "largest-prime"
+version = "0.1.0"
+
+[[package]]
+name = "largest-prime-factor"
+version = "0.1.0"
+
+[[package]]
+name = "largest-prime-factors-of-consecutive-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "largest-product-in-a-grid"
+version = "0.1.0"
+
+[[package]]
+name = "largest-product-in-a-series"
+version = "0.1.0"
+
+[[package]]
+name = "largest-roots-of-cubic-polynomials"
+version = "0.1.0"
+
+[[package]]
+name = "laser-beam-reflections"
+version = "0.1.0"
+
+[[package]]
+name = "laserbeam"
+version = "0.1.0"
+
+[[package]]
+name = "last-digits-of-divisors"
+version = "0.1.0"
+
+[[package]]
 name = "lattice-paths"
+version = "0.1.0"
+
+[[package]]
+name = "lattice-points-enclosed-by-parabola-and-line"
+version = "0.1.0"
+
+[[package]]
+name = "lattice-points-in-lattice-cubes"
+version = "0.1.0"
+
+[[package]]
+name = "lattice-points-on-a-circle"
+version = "0.1.0"
+
+[[package]]
+name = "lattice-quadrilaterals"
+version = "0.1.0"
+
+[[package]]
+name = "lcm"
+version = "0.1.0"
+
+[[package]]
+name = "least-common-multiple-count"
+version = "0.1.0"
+
+[[package]]
+name = "left-vs-right"
+version = "0.1.0"
+
+[[package]]
+name = "left-vs-right-ii"
+version = "0.1.0"
+
+[[package]]
+name = "lenticular-holes"
 version = "0.1.0"
 
 [[package]]
@@ -167,13 +1847,141 @@ dependencies = [
 ]
 
 [[package]]
+name = "lexicographical-neighbours"
+version = "0.1.0"
+
+[[package]]
 name = "libm"
 version = "0.2.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f9fbbcab51052fe104eb5e5d351cf728d30a5be1fe14d9be8a3b097481fb97de"
 
 [[package]]
+name = "licence-plates"
+version = "0.1.0"
+
+[[package]]
+name = "lights-out"
+version = "0.1.0"
+
+[[package]]
+name = "linear-combinations-of-semiprimes"
+version = "0.1.0"
+
+[[package]]
+name = "linear-transformations-of-polygonal-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "lissajous-curves"
+version = "0.1.0"
+
+[[package]]
+name = "long-products"
+version = "0.1.0"
+
+[[package]]
+name = "long-substring-with-many-repetitions"
+version = "0.1.0"
+
+[[package]]
 name = "longest-collatz"
+version = "0.1.0"
+
+[[package]]
+name = "look-and-say-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "loops-of-ropes"
+version = "0.1.0"
+
+[[package]]
+name = "low-prime-chessboard-nim"
+version = "0.1.0"
+
+[[package]]
+name = "lowest-cost-search"
+version = "0.1.0"
+
+[[package]]
+name = "luxury-hampers"
+version = "0.1.0"
+
+[[package]]
+name = "lychrel-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "magic-5-gon-ring"
+version = "0.1.0"
+
+[[package]]
+name = "magic-bracelets"
+version = "0.1.0"
+
+[[package]]
+name = "mahjong"
+version = "0.1.0"
+
+[[package]]
+name = "marsh-crossing"
+version = "0.1.0"
+
+[[package]]
+name = "matching-digit-sums"
+version = "0.1.0"
+
+[[package]]
+name = "matchsticks"
+version = "0.1.0"
+
+[[package]]
+name = "matrix-sum"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-area"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-coprime-subset"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-n-gon-in-a-region"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-perimeter"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-polygons"
+version = "0.1.0"
+
+[[package]]
+name = "maximal-prime-score"
+version = "0.1.0"
+
+[[package]]
+name = "maximising-a-weighted-product"
+version = "0.1.0"
+
+[[package]]
+name = "maximix-arrangements"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-integer-partition-product"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-length-of-an-antichain"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-number-of-divisors"
 version = "0.1.0"
 
 [[package]]
@@ -181,11 +1989,219 @@ name = "maximum-path-sum-i"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-path-sum-ii"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-product-of-parts"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-quadrilaterals"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-sum-subsequence"
+version = "0.1.0"
+
+[[package]]
+name = "mbius-function-and-intervals"
+version = "0.1.0"
+
+[[package]]
+name = "mc-carthy-91-function"
+version = "0.1.0"
+
+[[package]]
+name = "median-of-products"
+version = "0.1.0"
+
+[[package]]
+name = "mersennes-square-root"
+version = "0.1.0"
+
+[[package]]
+name = "mex-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "mezzo-forte"
+version = "0.1.0"
+
+[[package]]
+name = "migrating-ants"
+version = "0.1.0"
+
+[[package]]
+name = "minimal-network"
+version = "0.1.0"
+
+[[package]]
+name = "minimal-pairing-modulo-p"
+version = "0.1.0"
+
+[[package]]
+name = "minimal-path-using-additive-cost"
+version = "0.1.0"
+
+[[package]]
+name = "minimum-area-of-a-convex-grid-polygon"
+version = "0.1.0"
+
+[[package]]
+name = "minimum-of-subsequences"
+version = "0.1.0"
+
+[[package]]
+name = "minimum-values-of-the-carmichael-function"
+version = "0.1.0"
+
+[[package]]
+name = "minkowski-sums"
+version = "0.1.0"
+
+[[package]]
+name = "mirror-power-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "mixtures"
+version = "0.1.0"
+
+[[package]]
+name = "modified-fibonacci-golden-nuggets"
+version = "0.1.0"
+
+[[package]]
+name = "modular-cubes-part-1"
+version = "0.1.0"
+
+[[package]]
+name = "modular-cubes-part-2"
+version = "0.1.0"
+
+[[package]]
+name = "modular-inverses"
+version = "0.1.0"
+
+[[package]]
+name = "modular-polynomial-composition"
+version = "0.1.0"
+
+[[package]]
+name = "modulo-power-identity"
+version = "0.1.0"
+
+[[package]]
+name = "modulo-summations"
+version = "0.1.0"
+
+[[package]]
+name = "monopoly-odds"
+version = "0.1.0"
+
+[[package]]
+name = "mountain-range"
+version = "0.1.0"
+
+[[package]]
+name = "moving-pentagon"
+version = "0.1.0"
+
+[[package]]
+name = "multiples-of-3-or-5"
+version = "0.1.0"
+
+[[package]]
+name = "multiples-with-small-digits"
+version = "0.1.0"
+
+[[package]]
+name = "music-festival"
+version = "0.1.0"
+
+[[package]]
+name = "musical-chairs-revisited"
+version = "0.1.0"
+
+[[package]]
+name = "n-sequences"
+version = "0.1.0"
+
+[[package]]
 name = "names-scores"
 version = "0.1.0"
 
 [[package]]
+name = "nanobots-on-geodesics"
+version = "0.1.0"
+
+[[package]]
+name = "near-power-sums"
+version = "0.1.0"
+
+[[package]]
+name = "nearly-isosceles-120-degree-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "necklace-of-circles"
+version = "0.1.0"
+
+[[package]]
+name = "neighbourly-constraints"
+version = "0.1.0"
+
+[[package]]
+name = "nested-radicals"
+version = "0.1.0"
+
+[[package]]
+name = "nested-square-roots"
+version = "0.1.0"
+
+[[package]]
+name = "nim"
+version = "0.1.0"
+
+[[package]]
+name = "nim-extreme"
+version = "0.1.0"
+
+[[package]]
+name = "nim-on-towers-of-hanoi"
+version = "0.1.0"
+
+[[package]]
+name = "nim-square"
+version = "0.1.0"
+
+[[package]]
 name = "non-abundant-sums"
+version = "0.1.0"
+
+[[package]]
+name = "non-bouncy-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "nontransitive-sets-of-dice"
+version = "0.1.0"
+
+[[package]]
+name = "not-coprime"
+version = "0.1.0"
+
+[[package]]
+name = "not-zeckendorf"
+version = "0.1.0"
+
+[[package]]
+name = "now-i-know"
+version = "0.1.0"
+
+[[package]]
+name = "nsupthsup-digit-of-reciprocals"
 version = "0.1.0"
 
 [[package]]
@@ -235,11 +2251,203 @@ dependencies = [
 ]
 
 [[package]]
+name = "number-mind"
+version = "0.1.0"
+
+[[package]]
+name = "number-of-lattice-points-in-a-hyperball"
+version = "0.1.0"
+
+[[package]]
+name = "number-rotations"
+version = "0.1.0"
+
+[[package]]
+name = "number-sequence-game"
+version = "0.1.0"
+
+[[package]]
 name = "number-spiral-diagonals"
 version = "0.1.0"
 
 [[package]]
+name = "number-splitting"
+version = "0.1.0"
+
+[[package]]
+name = "numbers-challenge"
+version = "0.1.0"
+
+[[package]]
+name = "numbers-in-decimal-expansions"
+version = "0.1.0"
+
+[[package]]
+name = "numbers-of-the-form-a2-b3"
+version = "0.1.0"
+
+[[package]]
+name = "numbers-with-a-given-prime-factor-sum"
+version = "0.1.0"
+
+[[package]]
+name = "obtuse-angled-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "odd-elimination"
+version = "0.1.0"
+
+[[package]]
+name = "odd-period-square-roots"
+version = "0.1.0"
+
+[[package]]
+name = "odd-run-compositions"
+version = "0.1.0"
+
+[[package]]
+name = "odd-triplets"
+version = "0.1.0"
+
+[[package]]
+name = "one-child-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "one-million-members"
+version = "0.1.0"
+
+[[package]]
+name = "one-more-one"
+version = "0.1.0"
+
+[[package]]
+name = "open-chess-positions"
+version = "0.1.0"
+
+[[package]]
+name = "optimal-card-stacking"
+version = "0.1.0"
+
+[[package]]
+name = "optimum-polynomial"
+version = "0.1.0"
+
+[[package]]
+name = "order-modulo-factorial"
+version = "0.1.0"
+
+[[package]]
+name = "ordered-fractions"
+version = "0.1.0"
+
+[[package]]
+name = "ordered-radicals"
+version = "0.1.0"
+
+[[package]]
+name = "p-10-substrings"
+version = "0.1.0"
+
+[[package]]
+name = "p-10001-st-prime"
+version = "0.1.0"
+
+[[package]]
+name = "p-123-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "p-123-separable"
+version = "0.1.0"
+
+[[package]]
+name = "p-1249-nim"
+version = "0.1.0"
+
+[[package]]
+name = "p-2-friendly"
+version = "0.1.0"
+
+[[package]]
+name = "p-2-times-2-positive-integer-matrix"
+version = "0.1.0"
+
+[[package]]
+name = "p-2-to-the-omega-of-n"
+version = "0.1.0"
+
+[[package]]
+name = "p-2011-nines"
+version = "0.1.0"
+
+[[package]]
+name = "p-2025"
+version = "0.1.0"
+
+[[package]]
+name = "p-250250"
+version = "0.1.0"
+
+[[package]]
+name = "p-3-like-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "p-47-smooth-triangular-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "p-5-d-summation"
+version = "0.1.0"
+
+[[package]]
+name = "p-5-smooth-pairs"
+version = "0.1.0"
+
+[[package]]
+name = "p-5-smooth-totients"
+version = "0.1.0"
+
+[[package]]
+name = "p-60-degree-triangle-inscribed-circles"
+version = "0.1.0"
+
+[[package]]
+name = "pairwise-coin-tossing-game"
+version = "0.1.0"
+
+[[package]]
+name = "palindrome-containing-strings"
+version = "0.1.0"
+
+[[package]]
+name = "palindromic-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "palindromic-sums"
+version = "0.1.0"
+
+[[package]]
+name = "panaitopol-primes"
+version = "0.1.0"
+
+[[package]]
+name = "pandigital-concatenating-products"
+version = "0.1.0"
+
+[[package]]
+name = "pandigital-fibonacci-ends"
+version = "0.1.0"
+
+[[package]]
 name = "pandigital-multiples"
+version = "0.1.0"
+
+[[package]]
+name = "pandigital-prime-sets"
 version = "0.1.0"
 
 [[package]]
@@ -254,7 +2462,151 @@ name = "pandigital-products"
 version = "0.1.0"
 
 [[package]]
+name = "pandigital-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "paper-cutting"
+version = "0.1.0"
+
+[[package]]
+name = "paper-strip-game"
+version = "0.1.0"
+
+[[package]]
+name = "partisan-nim"
+version = "0.1.0"
+
+[[package]]
+name = "passcode-derivation"
+version = "0.1.0"
+
+[[package]]
+name = "path-sum-four-ways"
+version = "0.1.0"
+
+[[package]]
+name = "path-sum-three-ways"
+version = "0.1.0"
+
+[[package]]
+name = "path-sum-two-ways"
+version = "0.1.0"
+
+[[package]]
+name = "paths-to-equality"
+version = "0.1.0"
+
+[[package]]
+name = "patterned-cylinders"
+version = "0.1.0"
+
+[[package]]
+name = "peerless-trees"
+version = "0.1.0"
+
+[[package]]
+name = "pencils-of-rays"
+version = "0.1.0"
+
+[[package]]
 name = "pentagon-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "pentagonal-puzzle"
+version = "0.1.0"
+
+[[package]]
+name = "peredur-fab-efrawg"
+version = "0.1.0"
+
+[[package]]
+name = "perfect-right-angled-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "perfect-square-collection"
+version = "0.1.0"
+
+[[package]]
+name = "perfection-quotients"
+version = "0.1.0"
+
+[[package]]
+name = "periodic-circles"
+version = "0.1.0"
+
+[[package]]
+name = "permutation-of-3-smooth-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "permutation-powers"
+version = "0.1.0"
+
+[[package]]
+name = "permutations-of-project"
+version = "0.1.0"
+
+[[package]]
+name = "permuted-matrices"
+version = "0.1.0"
+
+[[package]]
+name = "permuted-multiples"
+version = "0.1.0"
+
+[[package]]
+name = "phigital-number-base"
+version = "0.1.0"
+
+[[package]]
+name = "pi-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "piles-of-plates"
+version = "0.1.0"
+
+[[package]]
+name = "pirate-treasure"
+version = "0.1.0"
+
+[[package]]
+name = "pisano-periods-1"
+version = "0.1.0"
+
+[[package]]
+name = "pisano-periods-2"
+version = "0.1.0"
+
+[[package]]
+name = "pivotal-square-sums"
+version = "0.1.0"
+
+[[package]]
+name = "pizza-toppings"
+version = "0.1.0"
+
+[[package]]
+name = "planetary-gears"
+version = "0.1.0"
+
+[[package]]
+name = "platonic-dice"
+version = "0.1.0"
+
+[[package]]
+name = "point-genesis"
+version = "0.1.0"
+
+[[package]]
+name = "poker-hands"
+version = "0.1.0"
+
+[[package]]
+name = "polar-polygons"
 version = "0.1.0"
 
 [[package]]
@@ -262,7 +2614,43 @@ name = "polymorphic-bacteria"
 version = "0.1.0"
 
 [[package]]
+name = "polynomials-of-fibonacci-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "polynomials-with-at-least-one-integer-root"
+version = "0.1.0"
+
+[[package]]
+name = "poohsticks-marathon"
+version = "0.1.0"
+
+[[package]]
 name = "power-digit-sum"
+version = "0.1.0"
+
+[[package]]
+name = "power-sets-of-power-sets"
+version = "0.1.0"
+
+[[package]]
+name = "powerful-digit-counts"
+version = "0.1.0"
+
+[[package]]
+name = "powerful-digit-sum"
+version = "0.1.0"
+
+[[package]]
+name = "powers-of-1-sqrt-7"
+version = "0.1.0"
+
+[[package]]
+name = "powers-of-two"
+version = "0.1.0"
+
+[[package]]
+name = "powers-with-trailing-digits"
 version = "0.1.0"
 
 [[package]]
@@ -292,7 +2680,59 @@ dependencies = [
 ]
 
 [[package]]
+name = "prime-ary-tree"
+version = "0.1.0"
+
+[[package]]
+name = "prime-connection"
+version = "0.1.0"
+
+[[package]]
+name = "prime-cube-partnership"
+version = "0.1.0"
+
+[[package]]
 name = "prime-digit-replacements"
+version = "0.1.0"
+
+[[package]]
+name = "prime-digit-sum"
+version = "0.1.0"
+
+[[package]]
+name = "prime-factor-and-exponent"
+version = "0.1.0"
+
+[[package]]
+name = "prime-factorisation-of-binomial-coefficients"
+version = "0.1.0"
+
+[[package]]
+name = "prime-factors-of-n-to-the-15-plus-1"
+version = "0.1.0"
+
+[[package]]
+name = "prime-frog"
+version = "0.1.0"
+
+[[package]]
+name = "prime-generating-integers"
+version = "0.1.0"
+
+[[package]]
+name = "prime-guessing"
+version = "0.1.0"
+
+[[package]]
+name = "prime-mountain-range"
+version = "0.1.0"
+
+[[package]]
+name = "prime-pair-connection"
+version = "0.1.0"
+
+[[package]]
+name = "prime-pair-sets"
 version = "0.1.0"
 
 [[package]]
@@ -304,10 +2744,134 @@ dependencies = [
 ]
 
 [[package]]
+name = "prime-power-triples"
+version = "0.1.0"
+
+[[package]]
+name = "prime-proof-squbes"
+version = "0.1.0"
+
+[[package]]
+name = "prime-square-remainders"
+version = "0.1.0"
+
+[[package]]
+name = "prime-subset-sums"
+version = "0.1.0"
+
+[[package]]
+name = "prime-sum-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "prime-summations"
+version = "0.1.0"
+
+[[package]]
+name = "prime-triples-and-geometric-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "prime-triplets"
+version = "0.1.0"
+
+[[package]]
 name = "primes"
 version = "0.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0466ef49edd4a5a4bc9d62804a34e89366810bd8bfc3ed537101e3d099f245c5"
+
+[[package]]
+name = "primes-with-runs"
+version = "0.1.0"
+
+[[package]]
+name = "primitive-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "primonacci"
+version = "0.1.0"
+
+[[package]]
+name = "prize-strings"
+version = "0.1.0"
+
+[[package]]
+name = "problem-500"
+version = "0.1.0"
+
+[[package]]
+name = "product-of-gauss-factorials"
+version = "0.1.0"
+
+[[package]]
+name = "product-of-head-counts"
+version = "0.1.0"
+
+[[package]]
+name = "product-sum-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "products-of-bi-unitary-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "proportionate-nim"
+version = "0.1.0"
+
+[[package]]
+name = "protein-folding"
+version = "0.1.0"
+
+[[package]]
+name = "pseudo-fortunate-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "pseudo-geometric-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "pseudo-square-root"
+version = "0.1.0"
+
+[[package]]
+name = "pseudorandom-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-angle"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-ant"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-odds"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-polygons"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-quadrilaterals"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-tiles"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-tree"
+version = "0.1.0"
+
+[[package]]
+name = "pythagorean-triple-occurrence"
+version = "0.1.0"
 
 [[package]]
 name = "quadratic-primes"
@@ -315,6 +2879,58 @@ version = "0.1.0"
 dependencies = [
  "primes",
 ]
+
+[[package]]
+name = "quadruple-congruence"
+version = "0.1.0"
+
+[[package]]
+name = "quadtree-encoding-a-simple-compression-algorithm"
+version = "0.1.0"
+
+[[package]]
+name = "quintinomial-coefficients"
+version = "0.1.0"
+
+[[package]]
+name = "random-connected-area"
+version = "0.1.0"
+
+[[package]]
+name = "random-dealings"
+version = "0.1.0"
+
+[[package]]
+name = "random-rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "randomized-binary-search"
+version = "0.1.0"
+
+[[package]]
+name = "randomly-decaying-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "range-flips"
+version = "0.1.0"
+
+[[package]]
+name = "range-of-periodic-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "rational-blancmange"
+version = "0.1.0"
+
+[[package]]
+name = "rational-recurrence-relation"
+version = "0.1.0"
+
+[[package]]
+name = "reachable-numbers"
+version = "0.1.0"
 
 [[package]]
 name = "reciprocal-cycles"
@@ -327,6 +2943,226 @@ dependencies = [
 ]
 
 [[package]]
+name = "reciprocal-cycles-ii"
+version = "0.1.0"
+
+[[package]]
+name = "reciprocal-games-i"
+version = "0.1.0"
+
+[[package]]
+name = "reciprocal-games-ii"
+version = "0.1.0"
+
+[[package]]
+name = "reciprocal-pairs"
+version = "0.1.0"
+
+[[package]]
+name = "rectangles-in-cross-hatched-grids"
+version = "0.1.0"
+
+[[package]]
+name = "recursive-sequence-summation"
+version = "0.1.0"
+
+[[package]]
+name = "recursive-tree"
+version = "0.1.0"
+
+[[package]]
+name = "red-green-and-blue-tiles"
+version = "0.1.0"
+
+[[package]]
+name = "red-green-or-blue-tiles"
+version = "0.1.0"
+
+[[package]]
+name = "reflexive-position"
+version = "0.1.0"
+
+[[package]]
+name = "regular-star-polygons"
+version = "0.1.0"
+
+[[package]]
+name = "remainder-of-polynomial-division"
+version = "0.1.0"
+
+[[package]]
+name = "remarkable-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "removing-bits"
+version = "0.1.0"
+
+[[package]]
+name = "removing-cubes"
+version = "0.1.0"
+
+[[package]]
+name = "removing-digits"
+version = "0.1.0"
+
+[[package]]
+name = "removing-trits"
+version = "0.1.0"
+
+[[package]]
+name = "repeated-permutation"
+version = "0.1.0"
+
+[[package]]
+name = "repunit-divisibility"
+version = "0.1.0"
+
+[[package]]
+name = "repunit-nonfactors"
+version = "0.1.0"
+
+[[package]]
+name = "resilience"
+version = "0.1.0"
+
+[[package]]
+name = "restricted-factorisations"
+version = "0.1.0"
+
+[[package]]
+name = "restricted-permutations"
+version = "0.1.0"
+
+[[package]]
+name = "retractions-a"
+version = "0.1.0"
+
+[[package]]
+name = "retractions-b"
+version = "0.1.0"
+
+[[package]]
+name = "retractions-c"
+version = "0.1.0"
+
+[[package]]
+name = "reversible-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "reversible-prime-squares"
+version = "0.1.0"
+
+[[package]]
+name = "rhombus-tilings"
+version = "0.1.0"
+
+[[package]]
+name = "riffle-shuffles"
+version = "0.1.0"
+
+[[package]]
+name = "right-triangles-with-integer-coordinates"
+version = "0.1.0"
+
+[[package]]
+name = "rigid-graphs"
+version = "0.1.0"
+
+[[package]]
+name = "risky-moon"
+version = "0.1.0"
+
+[[package]]
+name = "robot-walks"
+version = "0.1.0"
+
+[[package]]
+name = "robot-welders"
+version = "0.1.0"
+
+[[package]]
+name = "rolling-ellipse"
+version = "0.1.0"
+
+[[package]]
+name = "rolling-square"
+version = "0.1.0"
+
+[[package]]
+name = "roman-numerals"
+version = "0.1.0"
+
+[[package]]
+name = "roman-numerals-ii"
+version = "0.1.0"
+
+[[package]]
+name = "rooms-of-doom"
+version = "0.1.0"
+
+[[package]]
+name = "roots-on-the-rise"
+version = "0.1.0"
+
+[[package]]
+name = "rounded-square-roots"
+version = "0.1.0"
+
+[[package]]
+name = "row-major-vs-column-major"
+version = "0.1.0"
+
+[[package]]
+name = "rsa-encryption"
+version = "0.1.0"
+
+[[package]]
+name = "rudin-shapiro-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "ruff-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "runner-and-swimmer"
+version = "0.1.0"
+
+[[package]]
+name = "same-differences"
+version = "0.1.0"
+
+[[package]]
+name = "saving-paper"
+version = "0.1.0"
+
+[[package]]
+name = "scary-sphere"
+version = "0.1.0"
+
+[[package]]
+name = "scatterstone-nim"
+version = "0.1.0"
+
+[[package]]
+name = "scoring-probabilities"
+version = "0.1.0"
+
+[[package]]
+name = "secret-santa"
+version = "0.1.0"
+
+[[package]]
+name = "selective-amnesia"
+version = "0.1.0"
+
+[[package]]
+name = "self-describing-sequences"
+version = "0.1.0"
+
+[[package]]
 name = "self-powers"
 version = "0.1.0"
 dependencies = [
@@ -335,10 +3171,342 @@ dependencies = [
 ]
 
 [[package]]
+name = "semidivisible-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "semiprimes"
+version = "0.1.0"
+
+[[package]]
+name = "sequence-of-points-on-a-hyperbola"
+version = "0.1.0"
+
+[[package]]
+name = "sequences-with-nice-divisibility-properties"
+version = "0.1.0"
+
+[[package]]
+name = "set"
+version = "0.1.0"
+
+[[package]]
+name = "sets-with-a-given-least-common-multiple"
+version = "0.1.0"
+
+[[package]]
+name = "seventeen-points"
+version = "0.1.0"
+
+[[package]]
+name = "sextuplet-norms"
+version = "0.1.0"
+
+[[package]]
+name = "shifted-multiples"
+version = "0.1.0"
+
+[[package]]
+name = "shifted-pythagorean-triples"
+version = "0.1.0"
+
+[[package]]
+name = "shortest-distance-among-points"
+version = "0.1.0"
+
+[[package]]
+name = "shortest-lattice-vector"
+version = "0.1.0"
+
+[[package]]
+name = "shuffling-cards"
+version = "0.1.0"
+
+[[package]]
+name = "shut-the-box"
+version = "0.1.0"
+
+[[package]]
+name = "siegbert-and-jo"
+version = "0.1.0"
+
+[[package]]
+name = "silver-dollar-game"
+version = "0.1.0"
+
+[[package]]
+name = "simbers"
+version = "0.1.0"
+
+[[package]]
+name = "singleton-difference"
+version = "0.1.0"
+
+[[package]]
+name = "singular-integer-right-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "skew-cost-coding"
+version = "0.1.0"
+
+[[package]]
+name = "skipping-squares"
+version = "0.1.0"
+
+[[package]]
+name = "sliders"
+version = "0.1.0"
+
+[[package]]
+name = "sliding-block-puzzle"
+version = "0.1.0"
+
+[[package]]
+name = "sliding-game"
+version = "0.1.0"
+
+[[package]]
+name = "slowly-converging-series"
+version = "0.1.0"
+
+[[package]]
+name = "smallest-multiple"
+version = "0.1.0"
+
+[[package]]
+name = "smallest-prime-factor"
+version = "0.1.0"
+
+[[package]]
 name = "smallvec"
 version = "1.15.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "67b1b7a3b5fe4f1376887184045fcf45c69e92af734b7aaddc05fb777b6fbd03"
+
+[[package]]
+name = "smooth-divisors-of-binomial-coefficients"
+version = "0.1.0"
+
+[[package]]
+name = "snowflakes"
+version = "0.1.0"
+
+[[package]]
+name = "solving-mathcal-i-equations"
+version = "0.1.0"
+
+[[package]]
+name = "sop-and-pos"
+version = "0.1.0"
+
+[[package]]
+name = "sorted-digits"
+version = "0.1.0"
+
+[[package]]
+name = "special-isosceles-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "special-partitions"
+version = "0.1.0"
+
+[[package]]
+name = "special-partitions-2"
+version = "0.1.0"
+
+[[package]]
+name = "special-pythagorean-triplet"
+version = "0.1.0"
+
+[[package]]
+name = "special-subset-sums-meta-testing"
+version = "0.1.0"
+
+[[package]]
+name = "special-subset-sums-optimum"
+version = "0.1.0"
+
+[[package]]
+name = "special-subset-sums-testing"
+version = "0.1.0"
+
+[[package]]
+name = "sphere-packing"
+version = "0.1.0"
+
+[[package]]
+name = "spherical-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "spilling-the-beans"
+version = "0.1.0"
+
+[[package]]
+name = "spiral-of-circles"
+version = "0.1.0"
+
+[[package]]
+name = "spiral-primes"
+version = "0.1.0"
+
+[[package]]
+name = "split-divisibilities"
+version = "0.1.0"
+
+[[package]]
+name = "square-1-squarefree"
+version = "0.1.0"
+
+[[package]]
+name = "square-digit-chains"
+version = "0.1.0"
+
+[[package]]
+name = "square-on-the-inside"
+version = "0.1.0"
+
+[[package]]
+name = "square-prime-factors"
+version = "0.1.0"
+
+[[package]]
+name = "square-prime-factors-ii"
+version = "0.1.0"
+
+[[package]]
+name = "square-progressive-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "square-remainders"
+version = "0.1.0"
+
+[[package]]
+name = "square-root-convergents"
+version = "0.1.0"
+
+[[package]]
+name = "square-root-digital-expansion"
+version = "0.1.0"
+
+[[package]]
+name = "square-root-smooth-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "square-space-silo"
+version = "0.1.0"
+
+[[package]]
+name = "square-subsets"
+version = "0.1.0"
+
+[[package]]
+name = "square-sum-of-the-digital-squares"
+version = "0.1.0"
+
+[[package]]
+name = "square-the-smallest"
+version = "0.1.0"
+
+[[package]]
+name = "square-triangle-products"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-binomial-coefficients"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-factors"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-fibonacci-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-gaussian-integers"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-hilbert-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "squarefree-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "squares-on-the-line"
+version = "0.1.0"
+
+[[package]]
+name = "squares-under-a-hyperbola"
+version = "0.1.0"
+
+[[package]]
+name = "st-petersburg-lottery"
+version = "0.1.0"
+
+[[package]]
+name = "stacking-cups"
+version = "0.1.0"
+
+[[package]]
+name = "standing-on-the-shoulders-of-trolls"
+version = "0.1.0"
+
+[[package]]
+name = "steady-squares"
+version = "0.1.0"
+
+[[package]]
+name = "stealthy-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "step-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "steps-in-euclids-algorithm"
+version = "0.1.0"
+
+[[package]]
+name = "stone-game"
+version = "0.1.0"
+
+[[package]]
+name = "stone-game-ii"
+version = "0.1.0"
+
+[[package]]
+name = "stone-game-iii"
+version = "0.1.0"
+
+[[package]]
+name = "stone-game-iv"
+version = "0.1.0"
+
+[[package]]
+name = "stone-game-solitaire"
+version = "0.1.0"
+
+[[package]]
+name = "strong-achilles-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "strong-repunits"
+version = "0.1.0"
+
+[[package]]
+name = "su-doku"
+version = "0.1.0"
 
 [[package]]
 name = "sub-string-divisibility"
@@ -348,7 +3516,415 @@ dependencies = [
 ]
 
 [[package]]
+name = "sub-triangle-sums"
+version = "0.1.0"
+
+[[package]]
+name = "subsequence-of-thue-morse-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "subset-sums"
+version = "0.1.0"
+
+[[package]]
+name = "subsets-with-a-unique-sum"
+version = "0.1.0"
+
+[[package]]
+name = "substring-sums-of-prime-concatenations"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-a-square-and-a-cube"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-digits-experience-13"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-digits-experience-23"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-digits-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-elevisors"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-largest-prime-factors"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-products"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-squares"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-squares-ii"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-squares-of-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-squares-of-unitary-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "sum-of-sum-of-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "sum-over-bitwise-operators"
+version = "0.1.0"
+
+[[package]]
+name = "sum-square-difference"
+version = "0.1.0"
+
+[[package]]
+name = "summation-of-a-modular-formula"
+version = "0.1.0"
+
+[[package]]
+name = "summation-of-primes"
+version = "0.1.0"
+
+[[package]]
+name = "summation-of-summations"
+version = "0.1.0"
+
+[[package]]
+name = "summing-a-multiplicative-function"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-digit-factorials"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-power-sums"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-powers-of-two"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-square-reciprocals"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-subarrays"
+version = "0.1.0"
+
+[[package]]
+name = "sums-of-totients-of-powers"
+version = "0.1.0"
+
+[[package]]
+name = "super-duper-sum"
+version = "0.1.0"
+
+[[package]]
+name = "super-pandigital-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "super-ramvok"
+version = "0.1.0"
+
+[[package]]
+name = "superinteger"
+version = "0.1.0"
+
+[[package]]
+name = "supernatural-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "swapping-counters"
+version = "0.1.0"
+
+[[package]]
+name = "symmetric-diophantine-equation"
+version = "0.1.0"
+
+[[package]]
+name = "tangent-circles"
+version = "0.1.0"
+
+[[package]]
+name = "tangents-to-an-ellipse"
+version = "0.1.0"
+
+[[package]]
+name = "tatami-free-rooms"
+version = "0.1.0"
+
+[[package]]
+name = "tau-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "textprime-k-factorial"
+version = "0.1.0"
+
+[[package]]
+name = "the-ackermann-function"
+version = "0.1.0"
+
+[[package]]
+name = "the-chase"
+version = "0.1.0"
+
+[[package]]
+name = "the-chase-ii"
+version = "0.1.0"
+
+[[package]]
+name = "the-floors-revenge"
+version = "0.1.0"
+
+[[package]]
+name = "the-gathering"
+version = "0.1.0"
+
+[[package]]
+name = "the-incenter-of-a-triangle"
+version = "0.1.0"
+
+[[package]]
+name = "the-inverse-summation-of-coprime-couples"
+version = "0.1.0"
+
+[[package]]
+name = "the-kings-banquet"
+version = "0.1.0"
+
+[[package]]
+name = "the-last-question"
+version = "0.1.0"
+
+[[package]]
+name = "the-millionth-number-with-at-least-one-million-prime-factors"
+version = "0.1.0"
+
+[[package]]
+name = "the-mouse-on-the-moon"
+version = "0.1.0"
+
+[[package]]
+name = "the-primality-of-2-n2-1"
+version = "0.1.0"
+
+[[package]]
+name = "the-race"
+version = "0.1.0"
+
+[[package]]
+name = "the-roundtable-lottery"
+version = "0.1.0"
+
+[[package]]
+name = "the-totient-of-a-square-is-a-cube"
+version = "0.1.0"
+
+[[package]]
+name = "the-tournament"
+version = "0.1.0"
+
+[[package]]
+name = "three-consecutive-digital-sum-limit"
+version = "0.1.0"
+
+[[package]]
+name = "three-similar-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "tidying-up-a"
+version = "0.1.0"
+
+[[package]]
+name = "tidying-up-b"
+version = "0.1.0"
+
+[[package]]
+name = "tiling-dodecagon"
+version = "0.1.0"
+
+[[package]]
+name = "titanic-sets"
+version = "0.1.0"
+
+[[package]]
+name = "tom-and-jerry"
+version = "0.1.0"
+
+[[package]]
+name = "too-many-twos"
+version = "0.1.0"
+
+[[package]]
+name = "top-dice"
+version = "0.1.0"
+
+[[package]]
+name = "toriangulations"
+version = "0.1.0"
+
+[[package]]
+name = "torpids"
+version = "0.1.0"
+
+[[package]]
+name = "torricelli-triangles"
+version = "0.1.0"
+
+[[package]]
+name = "total-inversion-count-of-divided-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "total-permutation-powers"
+version = "0.1.0"
+
+[[package]]
+name = "total-roundness"
+version = "0.1.0"
+
+[[package]]
+name = "totient-chains"
+version = "0.1.0"
+
+[[package]]
+name = "totient-graph"
+version = "0.1.0"
+
+[[package]]
+name = "totient-maximum"
+version = "0.1.0"
+
+[[package]]
+name = "totient-permutation"
+version = "0.1.0"
+
+[[package]]
+name = "totient-stairstep-sequences"
+version = "0.1.0"
+
+[[package]]
+name = "totient-sum"
+version = "0.1.0"
+
+[[package]]
+name = "touch-screen-password"
+version = "0.1.0"
+
+[[package]]
+name = "tours-on-a-4-times-n-playing-board"
+version = "0.1.0"
+
+[[package]]
+name = "tri-colouring-a-triangular-grid"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-centres"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-circle-intersection"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-containment"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-inscribed-in-ellipse"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-of-circular-arcs"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-on-parabola"
+version = "0.1.0"
+
+[[package]]
+name = "triangle-triples"
+version = "0.1.0"
+
+[[package]]
+name = "triangles-containing-the-origin"
+version = "0.1.0"
+
+[[package]]
+name = "triangles-containing-the-origin-ii"
+version = "0.1.0"
+
+[[package]]
+name = "triangles-inside-circles"
+version = "0.1.0"
+
+[[package]]
+name = "triangles-with-integral-sides-and-an-integral-angle"
+version = "0.1.0"
+
+[[package]]
+name = "triangles-with-non-rational-sides-and-integral-area"
+version = "0.1.0"
+
+[[package]]
 name = "triangular-pentagonal-and-hexagonal"
+version = "0.1.0"
+
+[[package]]
+name = "triangular-pizza"
+version = "0.1.0"
+
+[[package]]
+name = "tribonacci-non-divisors"
+version = "0.1.0"
+
+[[package]]
+name = "tricoloured-coin-fountains"
+version = "0.1.0"
+
+[[package]]
+name = "triffle-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "trillionaire"
+version = "0.1.0"
+
+[[package]]
+name = "triominoes"
+version = "0.1.0"
+
+[[package]]
+name = "triple-product"
+version = "0.1.0"
+
+[[package]]
+name = "triplet-tricks"
+version = "0.1.0"
+
+[[package]]
+name = "triplicate-numbers"
 version = "0.1.0"
 
 [[package]]
@@ -357,3 +3933,171 @@ version = "0.1.0"
 dependencies = [
  "primes",
 ]
+
+[[package]]
+name = "turns-water-heating-system"
+version = "0.1.0"
+
+[[package]]
+name = "twenty-two-foolish-primes"
+version = "0.1.0"
+
+[[package]]
+name = "two-dimensional-recurrence"
+version = "0.1.0"
+
+[[package]]
+name = "two-heads-are-better-than-one"
+version = "0.1.0"
+
+[[package]]
+name = "twos-are-all-you-need"
+version = "0.1.0"
+
+[[package]]
+name = "unbalanced-nim"
+version = "0.1.0"
+
+[[package]]
+name = "under-the-rainbow"
+version = "0.1.0"
+
+[[package]]
+name = "unfair-race"
+version = "0.1.0"
+
+[[package]]
+name = "unfair-wager"
+version = "0.1.0"
+
+[[package]]
+name = "unlucky-primes"
+version = "0.1.0"
+
+[[package]]
+name = "unpredictable-permutations"
+version = "0.1.0"
+
+[[package]]
+name = "unreachable-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "uphill-paths"
+version = "0.1.0"
+
+[[package]]
+name = "upside-down-diophantine-equation"
+version = "0.1.0"
+
+[[package]]
+name = "urns"
+version = "0.1.0"
+
+[[package]]
+name = "verifying-primes"
+version = "0.1.0"
+
+[[package]]
+name = "very-odd-numbers"
+version = "0.1.0"
+
+[[package]]
+name = "waiting-for-a-pair"
+version = "0.1.0"
+
+[[package]]
+name = "wandering-robots"
+version = "0.1.0"
+
+[[package]]
+name = "weak-goodstein-sequence"
+version = "0.1.0"
+
+[[package]]
+name = "weak-queens"
+version = "0.1.0"
+
+[[package]]
+name = "weighted-lattice-paths"
+version = "0.1.0"
+
+[[package]]
+name = "well-drilling"
+version = "0.1.0"
+
+[[package]]
+name = "what-where-when"
+version = "0.1.0"
+
+[[package]]
+name = "where-are-the-odds"
+version = "0.1.0"
+
+[[package]]
+name = "window-into-a-matrix"
+version = "0.1.0"
+
+[[package]]
+name = "window-into-a-matrix-ii"
+version = "0.1.0"
+
+[[package]]
+name = "words-with-gaps"
+version = "0.1.0"
+
+[[package]]
+name = "writing-n-as-the-product-of-k-distinct-positive-integers"
+version = "0.1.0"
+
+[[package]]
+name = "xo-game"
+version = "0.1.0"
+
+[[package]]
+name = "xor-decryption"
+version = "0.1.0"
+
+[[package]]
+name = "xor-equation-a"
+version = "0.1.0"
+
+[[package]]
+name = "xor-equation-b"
+version = "0.1.0"
+
+[[package]]
+name = "xor-equation-c"
+version = "0.1.0"
+
+[[package]]
+name = "xor-powers"
+version = "0.1.0"
+
+[[package]]
+name = "xor-primes"
+version = "0.1.0"
+
+[[package]]
+name = "xy-equiv-yx"
+version = "0.1.0"
+
+[[package]]
+name = "yarra-gnisrever"
+version = "0.1.0"
+
+[[package]]
+name = "youngs-game-a"
+version = "0.1.0"
+
+[[package]]
+name = "youngs-game-b"
+version = "0.1.0"
+
+[[package]]
+name = "zebra-circles"
+version = "0.1.0"
+
+[[package]]
+name = "zeckendorf-representation"
+version = "0.1.0"

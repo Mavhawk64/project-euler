@@ -1,0 +1,6 @@
+[package]
+name = "row-major-vs-column-major"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

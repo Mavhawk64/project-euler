@@ -1,0 +1,6 @@
+[package]
+name = "hypocycloid-and-lattice-points"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

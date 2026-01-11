@@ -1,0 +1,6 @@
+[package]
+name = "integers-with-decreasing-prime-powers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

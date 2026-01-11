@@ -1,0 +1,6 @@
+[package]
+name = "integer-part-of-polynomial-equations-solutions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

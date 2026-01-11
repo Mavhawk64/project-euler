@@ -1,0 +1,6 @@
+[package]
+name = "sets-with-a-given-least-common-multiple"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

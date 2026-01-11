@@ -1,0 +1,6 @@
+[package]
+name = "prime-factors-of-n-to-the-15-plus-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

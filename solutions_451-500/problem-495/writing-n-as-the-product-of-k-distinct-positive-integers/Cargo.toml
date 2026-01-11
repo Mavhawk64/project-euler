@@ -1,0 +1,6 @@
+[package]
+name = "writing-n-as-the-product-of-k-distinct-positive-integers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

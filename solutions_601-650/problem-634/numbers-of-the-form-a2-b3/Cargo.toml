@@ -1,0 +1,6 @@
+[package]
+name = "numbers-of-the-form-a2-b3"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

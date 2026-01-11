@@ -1,0 +1,6 @@
+[package]
+name = "prime-factorisation-of-binomial-coefficients"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

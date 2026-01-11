@@ -1,0 +1,6 @@
+[package]
+name = "distance-of-random-points-within-hollow-square-laminae"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

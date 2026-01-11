@@ -1,0 +1,6 @@
+[package]
+name = "p-2-times-2-positive-integer-matrix"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

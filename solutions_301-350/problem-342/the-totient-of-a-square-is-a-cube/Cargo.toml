@@ -1,0 +1,6 @@
+[package]
+name = "the-totient-of-a-square-is-a-cube"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "a-long-row-of-dice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

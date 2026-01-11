@@ -1,0 +1,6 @@
+[package]
+name = "polynomials-with-at-least-one-integer-root"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

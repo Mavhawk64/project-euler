@@ -1,0 +1,6 @@
+[package]
+name = "linear-combinations-of-semiprimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
