@@ -2694,6 +2694,10 @@ version = "0.1.0"
 [[package]]
 name = "prime-digit-replacements"
 version = "0.1.0"
+dependencies = [
+ "itertools",
+ "primes",
+]
 
 [[package]]
 name = "prime-digit-sum"
