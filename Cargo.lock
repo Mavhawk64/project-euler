@@ -2643,6 +2643,9 @@ version = "0.1.0"
 [[package]]
 name = "powerful-digit-sum"
 version = "0.1.0"
+dependencies = [
+ "num-bigint",
+]
 
 [[package]]
 name = "powers-of-1-sqrt-7"
