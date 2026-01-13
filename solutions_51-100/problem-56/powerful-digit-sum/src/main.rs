@@ -18,3 +18,5 @@ fn main() {
     }
     println!("{}", max);
 }
+
+// max([sum([int(i) for i in list(str(a**b))]) for a in range(0,100) for b in range(0,100)])
