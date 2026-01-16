@@ -1655,6 +1655,16 @@ name = "irregular-star-polygons"
 version = "0.1.0"
 
 [[package]]
+name = "is_prime"
+version = "2.0.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4db9b8aa828653de8d06c4aabc6428eb4676563905f67fa61679ed4d6dbc808f"
+dependencies = [
+ "num-bigint",
+ "num-traits",
+]
+
+[[package]]
 name = "iterated-composition"
 version = "0.1.0"
 
@@ -3361,6 +3371,9 @@ version = "0.1.0"
 [[package]]
 name = "spiral-primes"
 version = "0.1.0"
+dependencies = [
+ "is_prime",
+]
 
 [[package]]
 name = "split-divisibilities"
