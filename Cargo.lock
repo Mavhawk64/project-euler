@@ -3397,6 +3397,11 @@ version = "0.1.0"
 [[package]]
 name = "square-root-convergents"
 version = "0.1.0"
+dependencies = [
+ "num-bigint",
+ "num-rational",
+ "num-traits",
+]
 
 [[package]]
 name = "square-root-digital-expansion"
