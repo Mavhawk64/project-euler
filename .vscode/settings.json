@@ -7,5 +7,6 @@
     "editor.suggestOnTriggerCharacters": false,
     "editor.parameterHints.enabled": false,
     "editor.wordBasedSuggestions": "off",
-    "editor.inlineSuggest.enabled": false
+    "editor.inlineSuggest.enabled": false,
+    "workbench.colorTheme": "GitHub Dark"
 }

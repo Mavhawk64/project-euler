@@ -2754,6 +2754,10 @@ version = "0.1.0"
 [[package]]
 name = "prime-pair-sets"
 version = "0.1.0"
+dependencies = [
+ "is_prime",
+ "primes",
+]
 
 [[package]]
 name = "prime-permutations"
