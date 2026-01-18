@@ -49,9 +49,5 @@ fn generate_pandigitals(digits: Vec<u32>, fixed_length: usize) -> Vec<u64> {
 }
 
 fn num_digits(n: u64) -> u64 {
-    if n == 0 {
-        1
-    } else {
-        (n.ilog10() + 1) as u64
-    }
+    if n == 0 { 1 } else { (n.ilog10() + 1) as u64 }
 }

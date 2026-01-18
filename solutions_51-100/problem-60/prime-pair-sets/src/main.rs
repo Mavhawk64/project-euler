@@ -69,9 +69,5 @@ fn concat(num1: u64, num2: u64) -> u64 {
 }
 
 fn num_len(num: u64) -> u32 {
-    if num == 0 {
-        1
-    } else {
-        1 + num.ilog10()
-    }
+    if num == 0 { 1 } else { 1 + num.ilog10() }
 }

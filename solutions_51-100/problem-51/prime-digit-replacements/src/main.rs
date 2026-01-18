@@ -41,11 +41,7 @@ fn main() {
 }
 
 fn num_len(n: u64) -> usize {
-    if n == 0 {
-        1
-    } else {
-        (n.ilog10() + 1) as usize
-    }
+    if n == 0 { 1 } else { (n.ilog10() + 1) as usize }
 }
 
 // We need to get a prime number, say:

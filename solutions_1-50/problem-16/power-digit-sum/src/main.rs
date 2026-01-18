@@ -28,15 +28,14 @@ fn sum_2_pow(n: u32) -> u32 {
         }
     }
 
-//     let mut o: u128=0;
-//     for &d in digits.iter() {
-//     o += d as u128;
-// }
-// same result as below w/ mapping each val to u128:
+    //     let mut o: u128=0;
+    //     for &d in digits.iter() {
+    //     o += d as u128;
+    // }
+    // same result as below w/ mapping each val to u128:
 
     return digits.iter().map(|&d| d as u32).sum(); // a little sum magic w/ map courtesy of ChatGPT
 }
-
 
 // Python 3.14.1 (main, Dec  2 2025, 12:51:37) [GCC 12.3.0] on linux
 // Type "help", "copyright", "credits" or "license" for more information.

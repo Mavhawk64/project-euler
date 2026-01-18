@@ -1,7 +1,7 @@
 use bigdecimal::BigDecimal;
 use num_bigint::BigInt;
 use num_rational::Ratio;
-use num_traits::{pow, One};
+use num_traits::{One, pow};
 use std::str::FromStr;
 
 // We need to find the biggest pattern from 1/1 -> 1/1000 in the decimals
